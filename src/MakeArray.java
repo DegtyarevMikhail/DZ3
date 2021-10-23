@@ -67,21 +67,7 @@ public class MakeArray {
         }
     }
 }
-   /* public static void prompt2(char c, char z){
-        System.out.println("Вторая буква в слове :");
-        System.out.println(z);
-    }
-    public static void prompt3(char w, char c, char z){
-        System.out.println("Первые три буквы в слове :");
-        System.out.println(c + " " + z +" " + w );
-    }
-    public static void prompt4(int w, int c, int z){
-        switch (w, c, z){
 
-        }
-        System.out.println("Первые три буквы в слове :");
-        System.out.println(c + " " + z +" " + w );
-    } */
 
 
 
