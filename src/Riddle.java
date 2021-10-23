@@ -6,10 +6,10 @@ public class Riddle {
     private static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
-        int a = -1;
-        int r = 10;
-        int x = -1;
-        int z = 3;
+        int a = -1;//переменная для ввода с консоли
+        int r = 10;//диапазон отгадываемого числа (0-10)
+        int x = -1;//переменная для записи random.
+        int z = 3;// колличество попыток.
         x = random.nextInt(r);
         System.out.println("Загадано число от 0 до 9 :");
         System.out.println("Отгадайте число от 0 до 9 :");
